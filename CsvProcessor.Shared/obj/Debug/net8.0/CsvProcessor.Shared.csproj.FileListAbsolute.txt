@@ -1,0 +1,14 @@
+C:\Users\Dhanya\source\repos\CsvProcessor\CsvProcessor.Shared\bin\Debug\net8.0\CsvProcessor.Shared.deps.json
+C:\Users\Dhanya\source\repos\CsvProcessor\CsvProcessor.Shared\bin\Debug\net8.0\CsvProcessor.Shared.runtimeconfig.json
+C:\Users\Dhanya\source\repos\CsvProcessor\CsvProcessor.Shared\bin\Debug\net8.0\CsvProcessor.Shared.dll
+C:\Users\Dhanya\source\repos\CsvProcessor\CsvProcessor.Shared\bin\Debug\net8.0\CsvProcessor.Shared.pdb
+C:\Users\Dhanya\source\repos\CsvProcessor\CsvProcessor.Shared\obj\Debug\net8.0\CsvProcessor.Shared.csproj.AssemblyReference.cache
+C:\Users\Dhanya\source\repos\CsvProcessor\CsvProcessor.Shared\obj\Debug\net8.0\CsvProcessor.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dhanya\source\repos\CsvProcessor\CsvProcessor.Shared\obj\Debug\net8.0\CsvProcessor.Shared.AssemblyInfoInputs.cache
+C:\Users\Dhanya\source\repos\CsvProcessor\CsvProcessor.Shared\obj\Debug\net8.0\CsvProcessor.Shared.AssemblyInfo.cs
+C:\Users\Dhanya\source\repos\CsvProcessor\CsvProcessor.Shared\obj\Debug\net8.0\CsvProcessor.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Dhanya\source\repos\CsvProcessor\CsvProcessor.Shared\obj\Debug\net8.0\CsvProcessor.Shared.dll
+C:\Users\Dhanya\source\repos\CsvProcessor\CsvProcessor.Shared\obj\Debug\net8.0\refint\CsvProcessor.Shared.dll
+C:\Users\Dhanya\source\repos\CsvProcessor\CsvProcessor.Shared\obj\Debug\net8.0\CsvProcessor.Shared.pdb
+C:\Users\Dhanya\source\repos\CsvProcessor\CsvProcessor.Shared\obj\Debug\net8.0\CsvProcessor.Shared.genruntimeconfig.cache
+C:\Users\Dhanya\source\repos\CsvProcessor\CsvProcessor.Shared\obj\Debug\net8.0\ref\CsvProcessor.Shared.dll

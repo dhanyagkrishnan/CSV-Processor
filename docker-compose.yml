@@ -1,0 +1,51 @@
+version: '3.9'
+services:
+  # ---------- WEB APP ----------
+  webapp:
+    build:
+      context: .
+      dockerfile: WebApp/Dockerfile
+    ports:
+      - "8080:8080"
+    environment:
+      - ASPNETCORE_URLS=http://+:8080
+      - ConnectionStrings__DefaultConnection=Server=db;Database=CsvProcessorDb;User Id=sa;Password=Your_password123;TrustServerCertificate=True;
+      - RabbitMQ__HostName=rabbitmq
+      - RabbitMQ__UserName=myuser
+      - RabbitMQ__Password=mypassword
+    depends_on:
+      - db
+      - rabbitmq
+
+  # ---------- WORKER SERVICE ----------
+  workerservice:
+    build:
+      context: .
+      dockerfile: WorkerService/Dockerfile
+    environment:
+      - ConnectionStrings__DefaultConnection=Server=db;Database=CsvProcessorDb;User Id=sa;Password=Your_password123;TrustServerCertificate=True;
+      - RabbitMQ__HostName=rabbitmq
+      - RabbitMQ__UserName=myuser
+      - RabbitMQ__Password=mypassword
+    depends_on:
+      - db
+      - rabbitmq
+
+  # ---------- DATABASE ----------
+  db:
+    image: mcr.microsoft.com/mssql/server:2022-latest
+    environment:
+      SA_PASSWORD: "Your_password123"
+      ACCEPT_EULA: "Y"
+    ports:
+      - "1433:1433"
+
+  # ---------- RABBITMQ ----------
+  rabbitmq:
+    image: rabbitmq:3-management
+    ports:
+      - "5672:5672"
+      - "15672:15672"
+    environment:
+      RABBITMQ_DEFAULT_USER: myuser
+      RABBITMQ_DEFAULT_PASS: mypassword
