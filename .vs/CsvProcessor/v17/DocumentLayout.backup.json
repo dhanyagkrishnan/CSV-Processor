@@ -3,6 +3,30 @@
   "WorkspaceRootPath": "C:\\Users\\Dhanya\\source\\repos\\CsvProcessor\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{5C9CDDB1-2820-4465-9F48-09AAA947D374}|WorkerService\\WorkerService.csproj|c:\\users\\dhanya\\source\\repos\\csvprocessor\\workerservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C9CDDB1-2820-4465-9F48-09AAA947D374}|WorkerService\\WorkerService.csproj|solutionrelative:workerservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7CC558B-191F-4096-B48A-739500E8B237}|WebApp\\WebApp.csproj|c:\\users\\dhanya\\source\\repos\\csvprocessor\\webapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7CC558B-191F-4096-B48A-739500E8B237}|WebApp\\WebApp.csproj|solutionrelative:webapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C9CDDB1-2820-4465-9F48-09AAA947D374}|WorkerService\\WorkerService.csproj|c:\\users\\dhanya\\source\\repos\\csvprocessor\\workerservice\\csvworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C9CDDB1-2820-4465-9F48-09AAA947D374}|WorkerService\\WorkerService.csproj|solutionrelative:workerservice\\csvworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C9CDDB1-2820-4465-9F48-09AAA947D374}|WorkerService\\WorkerService.csproj|c:\\users\\dhanya\\source\\repos\\csvprocessor\\workerservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5C9CDDB1-2820-4465-9F48-09AAA947D374}|WorkerService\\WorkerService.csproj|solutionrelative:workerservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7CC558B-191F-4096-B48A-739500E8B237}|WebApp\\WebApp.csproj|c:\\users\\dhanya\\source\\repos\\csvprocessor\\webapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C7CC558B-191F-4096-B48A-739500E8B237}|WebApp\\WebApp.csproj|solutionrelative:webapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FD38AA6-2AC5-43E4-9231-DD204DD6799A}|CsvProcessor.Shared\\CsvProcessor.Shared.csproj|c:\\users\\dhanya\\source\\repos\\csvprocessor\\csvprocessor.shared\\services\\fileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FD38AA6-2AC5-43E4-9231-DD204DD6799A}|CsvProcessor.Shared\\CsvProcessor.Shared.csproj|solutionrelative:csvprocessor.shared\\services\\fileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C7CC558B-191F-4096-B48A-739500E8B237}|WebApp\\WebApp.csproj|c:\\users\\dhanya\\source\\repos\\csvprocessor\\webapp\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{C7CC558B-191F-4096-B48A-739500E8B237}|WebApp\\WebApp.csproj|solutionrelative:webapp\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -13,10 +37,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{C7CC558B-191F-4096-B48A-739500E8B237}|WebApp\\WebApp.csproj|c:\\users\\dhanya\\source\\repos\\csvprocessor\\webapp\\pages\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{C7CC558B-191F-4096-B48A-739500E8B237}|WebApp\\WebApp.csproj|solutionrelative:webapp\\pages\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5C9CDDB1-2820-4465-9F48-09AAA947D374}|WorkerService\\WorkerService.csproj|c:\\users\\dhanya\\source\\repos\\csvprocessor\\workerservice\\csvworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5C9CDDB1-2820-4465-9F48-09AAA947D374}|WorkerService\\WorkerService.csproj|solutionrelative:workerservice\\csvworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5C9CDDB1-2820-4465-9F48-09AAA947D374}|WorkerService\\WorkerService.csproj|c:\\users\\dhanya\\source\\repos\\csvprocessor\\workerservice\\states\\inprogressstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -35,20 +55,8 @@
       "RelativeMoniker": "D:0:0:{5C9CDDB1-2820-4465-9F48-09AAA947D374}|WorkerService\\WorkerService.csproj|solutionrelative:workerservice\\states\\notstartedstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5C9CDDB1-2820-4465-9F48-09AAA947D374}|WorkerService\\WorkerService.csproj|c:\\users\\dhanya\\source\\repos\\csvprocessor\\workerservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5C9CDDB1-2820-4465-9F48-09AAA947D374}|WorkerService\\WorkerService.csproj|solutionrelative:workerservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C7CC558B-191F-4096-B48A-739500E8B237}|WebApp\\WebApp.csproj|c:\\users\\dhanya\\source\\repos\\csvprocessor\\webapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C7CC558B-191F-4096-B48A-739500E8B237}|WebApp\\WebApp.csproj|solutionrelative:webapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{9FD38AA6-2AC5-43E4-9231-DD204DD6799A}|CsvProcessor.Shared\\CsvProcessor.Shared.csproj|c:\\users\\dhanya\\source\\repos\\csvprocessor\\csvprocessor.shared\\services\\rabbitmqpublisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9FD38AA6-2AC5-43E4-9231-DD204DD6799A}|CsvProcessor.Shared\\CsvProcessor.Shared.csproj|solutionrelative:csvprocessor.shared\\services\\rabbitmqpublisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9FD38AA6-2AC5-43E4-9231-DD204DD6799A}|CsvProcessor.Shared\\CsvProcessor.Shared.csproj|c:\\users\\dhanya\\source\\repos\\csvprocessor\\csvprocessor.shared\\services\\fileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9FD38AA6-2AC5-43E4-9231-DD204DD6799A}|CsvProcessor.Shared\\CsvProcessor.Shared.csproj|solutionrelative:csvprocessor.shared\\services\\fileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C7CC558B-191F-4096-B48A-739500E8B237}|WebApp\\WebApp.csproj|c:\\users\\dhanya\\source\\repos\\csvprocessor\\webapp\\webapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -110,89 +118,63 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Dhanya\\source\\repos\\CsvProcessor\\WebApp\\Pages\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "WebApp\\Pages\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\Dhanya\\source\\repos\\CsvProcessor\\WebApp\\Pages\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "WebApp\\Pages\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-13T07:34:58.519Z",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Dhanya\\source\\repos\\CsvProcessor\\WebApp\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\Dhanya\\source\\repos\\CsvProcessor\\WebApp\\appsettings.json",
+              "RelativeToolTip": "WebApp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-13T08:09:43.731Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Dhanya\\source\\repos\\CsvProcessor\\WorkerService\\appsettings.json",
+              "RelativeDocumentMoniker": "WorkerService\\appsettings.json",
+              "ToolTip": "C:\\Users\\Dhanya\\source\\repos\\CsvProcessor\\WorkerService\\appsettings.json",
+              "RelativeToolTip": "WorkerService\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-13T08:09:26.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "CsvWorker.cs",
               "DocumentMoniker": "C:\\Users\\Dhanya\\source\\repos\\CsvProcessor\\WorkerService\\CsvWorker.cs",
               "RelativeDocumentMoniker": "WorkerService\\CsvWorker.cs",
               "ToolTip": "C:\\Users\\Dhanya\\source\\repos\\CsvProcessor\\WorkerService\\CsvWorker.cs",
               "RelativeToolTip": "WorkerService\\CsvWorker.cs",
-              "ViewState": "AgIAAEQAAAAAAAAAAAAcwDoAAAArAAAAAAAAAA==",
+              "ViewState": "AgIAAEgAAAAAAAAAAIAwwFIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-12T18:36:34.178Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "CsvRow.cs",
-              "DocumentMoniker": "C:\\Users\\Dhanya\\source\\repos\\CsvProcessor\\CsvProcessor.Shared\\Models\\CsvRow.cs",
-              "RelativeDocumentMoniker": "CsvProcessor.Shared\\Models\\CsvRow.cs",
-              "ToolTip": "C:\\Users\\Dhanya\\source\\repos\\CsvProcessor\\CsvProcessor.Shared\\Models\\CsvRow.cs",
-              "RelativeToolTip": "CsvProcessor.Shared\\Models\\CsvRow.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA3AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-12T18:34:20.375Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "InProgressState.cs",
-              "DocumentMoniker": "C:\\Users\\Dhanya\\source\\repos\\CsvProcessor\\WorkerService\\States\\InProgressState.cs",
-              "RelativeDocumentMoniker": "WorkerService\\States\\InProgressState.cs",
-              "ToolTip": "C:\\Users\\Dhanya\\source\\repos\\CsvProcessor\\WorkerService\\States\\InProgressState.cs",
-              "RelativeToolTip": "WorkerService\\States\\InProgressState.cs",
-              "ViewState": "AgIAACoAAAAAAAAAAAAwwEkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-12T18:32:15.858Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "NotStartedState.cs",
-              "DocumentMoniker": "C:\\Users\\Dhanya\\source\\repos\\CsvProcessor\\WorkerService\\States\\NotStartedState.cs",
-              "RelativeDocumentMoniker": "WorkerService\\States\\NotStartedState.cs",
-              "ToolTip": "C:\\Users\\Dhanya\\source\\repos\\CsvProcessor\\WorkerService\\States\\NotStartedState.cs",
-              "RelativeToolTip": "WorkerService\\States\\NotStartedState.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-12T18:31:45.988Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 5,
               "Title": "FileService.cs",
               "DocumentMoniker": "C:\\Users\\Dhanya\\source\\repos\\CsvProcessor\\CsvProcessor.Shared\\Services\\FileService.cs",
               "RelativeDocumentMoniker": "CsvProcessor.Shared\\Services\\FileService.cs",
               "ToolTip": "C:\\Users\\Dhanya\\source\\repos\\CsvProcessor\\CsvProcessor.Shared\\Services\\FileService.cs",
               "RelativeToolTip": "CsvProcessor.Shared\\Services\\FileService.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAYwCYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-12T17:18:35.341Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "IFileProcessingState.cs",
               "DocumentMoniker": "C:\\Users\\Dhanya\\source\\repos\\CsvProcessor\\WorkerService\\States\\IFileProcessingState.cs",
               "RelativeDocumentMoniker": "WorkerService\\States\\IFileProcessingState.cs",
@@ -200,17 +182,16 @@
               "RelativeToolTip": "WorkerService\\States\\IFileProcessingState.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-12T18:31:21.29Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-12T18:31:21.29Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Dhanya\\source\\repos\\CsvProcessor\\WebApp\\Pages\\Index.cshtml",
               "RelativeDocumentMoniker": "WebApp\\Pages\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Dhanya\\source\\repos\\CsvProcessor\\WebApp\\Pages\\Index.cshtml*",
-              "RelativeToolTip": "WebApp\\Pages\\Index.cshtml*",
+              "ToolTip": "C:\\Users\\Dhanya\\source\\repos\\CsvProcessor\\WebApp\\Pages\\Index.cshtml",
+              "RelativeToolTip": "WebApp\\Pages\\Index.cshtml",
               "ViewState": "AgIAAC4AAAAAAAAAAAAwwE0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-10-12T14:20:05.13Z",
@@ -218,7 +199,81 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Dhanya\\source\\repos\\CsvProcessor\\WorkerService\\Program.cs",
+              "RelativeDocumentMoniker": "WorkerService\\Program.cs",
+              "ToolTip": "C:\\Users\\Dhanya\\source\\repos\\CsvProcessor\\WorkerService\\Program.cs",
+              "RelativeToolTip": "WorkerService\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T06:01:48.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Dhanya\\source\\repos\\CsvProcessor\\WebApp\\Program.cs",
+              "RelativeDocumentMoniker": "WebApp\\Program.cs",
+              "ToolTip": "C:\\Users\\Dhanya\\source\\repos\\CsvProcessor\\WebApp\\Program.cs",
+              "RelativeToolTip": "WebApp\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAwwBYAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T18:21:49.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "NotStartedState.cs",
+              "DocumentMoniker": "C:\\Users\\Dhanya\\source\\repos\\CsvProcessor\\WorkerService\\States\\NotStartedState.cs",
+              "RelativeDocumentMoniker": "WorkerService\\States\\NotStartedState.cs",
+              "ToolTip": "C:\\Users\\Dhanya\\source\\repos\\CsvProcessor\\WorkerService\\States\\NotStartedState.cs",
+              "RelativeToolTip": "WorkerService\\States\\NotStartedState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T18:31:45.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "InProgressState.cs",
+              "DocumentMoniker": "C:\\Users\\Dhanya\\source\\repos\\CsvProcessor\\WorkerService\\States\\InProgressState.cs",
+              "RelativeDocumentMoniker": "WorkerService\\States\\InProgressState.cs",
+              "ToolTip": "C:\\Users\\Dhanya\\source\\repos\\CsvProcessor\\WorkerService\\States\\InProgressState.cs",
+              "RelativeToolTip": "WorkerService\\States\\InProgressState.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAwwEkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T18:32:15.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CsvRow.cs",
+              "DocumentMoniker": "C:\\Users\\Dhanya\\source\\repos\\CsvProcessor\\CsvProcessor.Shared\\Models\\CsvRow.cs",
+              "RelativeDocumentMoniker": "CsvProcessor.Shared\\Models\\CsvRow.cs",
+              "ToolTip": "C:\\Users\\Dhanya\\source\\repos\\CsvProcessor\\CsvProcessor.Shared\\Models\\CsvRow.cs",
+              "RelativeToolTip": "CsvProcessor.Shared\\Models\\CsvRow.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T18:34:20.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Dhanya\\source\\repos\\CsvProcessor\\WebApp\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebApp\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Dhanya\\source\\repos\\CsvProcessor\\WebApp\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebApp\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-13T07:34:58.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Login.cshtml",
               "DocumentMoniker": "C:\\Users\\Dhanya\\source\\repos\\CsvProcessor\\WebApp\\Pages\\Login.cshtml",
               "RelativeDocumentMoniker": "WebApp\\Pages\\Login.cshtml",
@@ -226,12 +281,11 @@
               "RelativeToolTip": "WebApp\\Pages\\Login.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-13T07:34:53.646Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-13T07:34:53.646Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "CsvProcessor.Shared.csproj",
               "DocumentMoniker": "C:\\Users\\Dhanya\\source\\repos\\CsvProcessor\\CsvProcessor.Shared\\CsvProcessor.Shared.csproj",
               "RelativeDocumentMoniker": "CsvProcessor.Shared\\CsvProcessor.Shared.csproj",
@@ -243,20 +297,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Dhanya\\source\\repos\\CsvProcessor\\WorkerService\\Program.cs",
-              "RelativeDocumentMoniker": "WorkerService\\Program.cs",
-              "ToolTip": "C:\\Users\\Dhanya\\source\\repos\\CsvProcessor\\WorkerService\\Program.cs",
-              "RelativeToolTip": "WorkerService\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-13T06:01:48.303Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "RabbitMqPublisher.cs",
               "DocumentMoniker": "C:\\Users\\Dhanya\\source\\repos\\CsvProcessor\\CsvProcessor.Shared\\Services\\RabbitMqPublisher.cs",
               "RelativeDocumentMoniker": "CsvProcessor.Shared\\Services\\RabbitMqPublisher.cs",
@@ -264,25 +305,11 @@
               "RelativeToolTip": "CsvProcessor.Shared\\Services\\RabbitMqPublisher.cs",
               "ViewState": "AgIAAAEAAAAAAAAAAAAQwB4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-12T18:16:58.063Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-12T18:16:58.063Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Dhanya\\source\\repos\\CsvProcessor\\WebApp\\Program.cs",
-              "RelativeDocumentMoniker": "WebApp\\Program.cs",
-              "ToolTip": "C:\\Users\\Dhanya\\source\\repos\\CsvProcessor\\WebApp\\Program.cs",
-              "RelativeToolTip": "WebApp\\Program.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAkwCgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-12T18:21:49.545Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "WebApp.csproj",
               "DocumentMoniker": "C:\\Users\\Dhanya\\source\\repos\\CsvProcessor\\WebApp\\WebApp.csproj",
               "RelativeDocumentMoniker": "WebApp\\WebApp.csproj",
@@ -294,7 +321,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 26,
               "Title": "20251012184821_UpdateFileProcessAndCsvRow.cs",
               "DocumentMoniker": "C:\\Users\\Dhanya\\source\\repos\\CsvProcessor\\CsvProcessor.Shared\\Migrations\\20251012184821_UpdateFileProcessAndCsvRow.cs",
               "RelativeDocumentMoniker": "CsvProcessor.Shared\\Migrations\\20251012184821_UpdateFileProcessAndCsvRow.cs",
@@ -306,7 +333,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "WorkerService.csproj",
               "DocumentMoniker": "C:\\Users\\Dhanya\\source\\repos\\CsvProcessor\\WorkerService\\WorkerService.csproj",
               "RelativeDocumentMoniker": "WorkerService\\WorkerService.csproj",
@@ -318,7 +345,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 20,
               "Title": "IMessagePublisher.cs",
               "DocumentMoniker": "C:\\Users\\Dhanya\\source\\repos\\CsvProcessor\\CsvProcessor.Shared\\Services\\IMessagePublisher.cs",
               "RelativeDocumentMoniker": "CsvProcessor.Shared\\Services\\IMessagePublisher.cs",
@@ -330,7 +357,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 18,
               "Title": "CsvProcessor.Tests.csproj",
               "DocumentMoniker": "C:\\Users\\Dhanya\\source\\repos\\CsvProcessor\\UnitTests\\CsvProcessor.Tests.csproj",
               "RelativeDocumentMoniker": "UnitTests\\CsvProcessor.Tests.csproj",
@@ -342,7 +369,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 21,
               "Title": "Signup.cshtml",
               "DocumentMoniker": "C:\\Users\\Dhanya\\source\\repos\\CsvProcessor\\WebApp\\Pages\\Signup.cshtml",
               "RelativeDocumentMoniker": "WebApp\\Pages\\Signup.cshtml",
@@ -354,7 +381,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 24,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\Dhanya\\source\\repos\\CsvProcessor\\CsvProcessor.Shared\\Models\\User.cs",
               "RelativeDocumentMoniker": "CsvProcessor.Shared\\Models\\User.cs",
@@ -366,7 +393,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 19,
               "Title": "FileServiceTests.cs",
               "DocumentMoniker": "C:\\Users\\Dhanya\\source\\repos\\CsvProcessor\\UnitTests\\FileServiceTests.cs",
               "RelativeDocumentMoniker": "UnitTests\\FileServiceTests.cs",
@@ -378,7 +405,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 17,
               "Title": "FileProcess.cs",
               "DocumentMoniker": "C:\\Users\\Dhanya\\source\\repos\\CsvProcessor\\CsvProcessor.Shared\\Models\\FileProcess.cs",
               "RelativeDocumentMoniker": "CsvProcessor.Shared\\Models\\FileProcess.cs",
@@ -390,7 +417,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 25,
               "Title": "CsvDbContextFactory.cs",
               "DocumentMoniker": "C:\\Users\\Dhanya\\source\\repos\\CsvProcessor\\CsvProcessor.Shared\\Data\\CsvDbContextFactory.cs",
               "RelativeDocumentMoniker": "CsvProcessor.Shared\\Data\\CsvDbContextFactory.cs",
@@ -402,7 +429,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 23,
               "Title": "Index.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\Dhanya\\source\\repos\\CsvProcessor\\WebApp\\Pages\\Index.cshtml.cs",
               "RelativeDocumentMoniker": "WebApp\\Pages\\Index.cshtml.cs",
@@ -414,7 +441,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 22,
               "Title": "Logout.cshtml",
               "DocumentMoniker": "C:\\Users\\Dhanya\\source\\repos\\CsvProcessor\\WebApp\\Pages\\Logout.cshtml",
               "RelativeDocumentMoniker": "WebApp\\Pages\\Logout.cshtml",
